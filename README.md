@@ -47,7 +47,7 @@
 
 | Alerta | Cámara |
 |--------|--------|
-| <img width="250" src="https://github.com/user-attachments/assets/45d71f7f-2bea-478c-a000-67cf81bbcf9e" /> | <img width="250" src="https://github.com/user-attachments/assets/bae93729-cc6b-4835-ae43-66e626a42287" />
+| <img width="250" src="https://github.com/user-attachments/assets/a3294ca3-980e-46eb-890d-dc0011c7a70b" /> | <img width="250" src="https://github.com/user-attachments/assets/bae93729-cc6b-4835-ae43-66e626a42287" />
  |
 
 | Cámara (vista 2) | Galería de la app |
